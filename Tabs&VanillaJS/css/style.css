@@ -1,0 +1,19 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #eee;
+}
+
+form h1{
+	font-weight: bold;
+}
+.my-form{
+	background-color: #fff;
+	box-shadow: 1px 1px 1px #000;
+}
+.login-register{
+	text-align: center;	
+}
+.login-register button{
+	width: 20%;
+	margin-bottom: 2%;
+}
